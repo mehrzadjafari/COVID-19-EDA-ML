@@ -1,7 +1,7 @@
 # COVID-19-EDA-ML
 Explanatory Data Analysis and Machine Learning project about Covid-19 data released by Mexican Government
 
-<img href='https://storage.googleapis.com/kaggle-datasets-images/2633044/4504149/9e9842d99500b5ffcc68cb43c81e4970/dataset-cover.jpg?t=2022-11-13-15-51-56'>
+![alt text]('https://storage.googleapis.com/kaggle-datasets-images/2633044/4504149/9e9842d99500b5ffcc68cb43c81e4970/dataset-cover.jpg')
 
 <div align="justify">
 <p>
