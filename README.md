@@ -52,7 +52,7 @@ The dataset was provided by the Mexican government (<a href="https://datos.gob.m
 <html>
 <body>
   <h1>Explanatory Data Analysis (EDA)</h1>
-  <img src = 'https://i.postimg.cc/4ND93Gw6/Exploratory-Data-Analysis-in-Python.jpg'/>
+  <center><img src = 'https://i.postimg.cc/4ND93Gw6/Exploratory-Data-Analysis-in-Python.jpg'/></center>
   <p>Explanatory Data Analysis (EDA) is an important step in any data science project. It involves exploring and analyzing the data to better understand its properties and characteristics.</p>
   <h2>Why is EDA important?</h2>
   <ul>
