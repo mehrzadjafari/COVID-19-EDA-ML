@@ -1,7 +1,9 @@
 # COVID-19-EDA-ML
 Explanatory Data Analysis and Machine Learning project about Covid-19 data released by Mexican Government
 
-![alt text]('https://ec.europa.eu/eurostat/documents/10760954/10762597/COVID_overview_image.jpg')
+<img src="https://ec.europa.eu/eurostat/documents/10760954/10762597/COVID_overview_image.jpg/" />
+
+
 
 <div align="justify">
 <p>
